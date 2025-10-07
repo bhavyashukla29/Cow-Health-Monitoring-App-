@@ -5,6 +5,12 @@ Built with **Kotlin**, the app stores recent readings, plots a 7-day trend graph
 
 ---
 
+## 🌐 Project Link
+
+🔗 **Live Repository / Demo:** [THI Monitor on GitHub](https://github.com/bhavyashukla29/Cow-Health-Monitoring-App-/releases/download/v1.0.0/app-release.apk)
+
+---
+
 ## 🌟 Features
 
 - 🌡️ **Manual & Live THI Calculation** – Compute THI using input or automatic weather data via OpenWeather API.  
@@ -33,7 +39,5 @@ Built with **Kotlin**, the app stores recent readings, plots a 7-day trend graph
 - Cow health analytics and weather-based recommendations.  
 
 ---
-
- 
 
  
