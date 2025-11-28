@@ -18,7 +18,7 @@ Built with **Kotlin**, the app stores recent readings, plots a 7-day trend graph
 - 📈 **THI Trends Visualization** – Displays the last 7 days’ THI data using dynamic line charts.  
 - 🎨 **Intuitive UI** – Clean gradient backgrounds, live status bar, and responsive layouts.  
 - 🧠 **ML Element (Planned)** – Predicts next-day THI or heat stress levels using past trends.  
-- 🔐 **User Profiles (Upcoming)** – Login & history tracking for multiple livestock profiles.  
+- 🔐 **User Profiles** – Login & history tracking for multiple livestock profiles.  
 
 ---
 
